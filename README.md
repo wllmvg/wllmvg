@@ -25,7 +25,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:pipes.felipe425@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://instagram.com/wllmvg.rar)
 
-## Spotify
+### 🎧 Lo que he estado escuchando últimamente
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=felon425&unique={true|1|on|yes})
 
