@@ -4,6 +4,10 @@
 🔧 Apasionado por la tecnología, las redes y el desarrollo de software  
 🐱‍💻 Actualmente aprendiendo: JavaScript, TypeScript y más...
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,react,html,css,python,cpp,mysql" alt="Tecnologías que uso y estoy aprendiendo" />
+</div>
+
 ## 🛠️ Tecnologías que uso
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
