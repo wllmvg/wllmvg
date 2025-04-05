@@ -25,9 +25,10 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:pipes.felipe425@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://instagram.com/wllmvg.rar)
 
+## Spotify
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=felon425&unique={true|1|on|yes})
+
 ---
 
 ¡Gracias por pasarte por aquí! 🚀
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact)
