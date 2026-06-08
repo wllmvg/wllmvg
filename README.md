@@ -1,13 +1,19 @@
 <p align="center">
-  <img src="https://github.com/wllmvg/wllmvg.github.io/blob/master/assets/Banner.jpg" alt="William Vega Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/wllmvg/wllmvg.github.io/master/assets/Banner.jpg" alt="William Vega Banner" width="100%">
 </p>
 
-### 💻 Full Stack Developer | React • TypeScript • Node.js • MongoDB
+<h1 align="center">William Felipe Melgarejo Vega</h1>
 
-🎓 Software Engineering Student at Universidad de Santander (UDES)
-📅 Expected Graduation: 2027
-📊 GPA: 4.07 / 5.0
+<h3 align="center">
+Full Stack Developer | React • TypeScript • Node.js • MongoDB
+</h3>
+
+<p align="center">
+🎓 Software Engineering Student at Universidad de Santander (UDES) <br>
+📅 Expected Graduation: 2027 <br>
+📊 GPA: 4.07 / 5.0 <br>
 🇬🇧 English B1 Certified
+</p>
 
 ---
 
@@ -43,7 +49,7 @@ React • TypeScript • Node.js • Express • MongoDB • Tailwind CSS • JW
 * Responsive interface
 * Centralized information management
 
-🔗 Repository: Coming Soon (It´s kinda private)
+🔒 Repository currently private due to ongoing institutional development.
 
 ---
 
@@ -109,36 +115,37 @@ Python
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge\&logo=mongoose)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk)
 
 ### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase)
 
 ### Deployment & Cloud
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge\&logo=github)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
 
 ---
 
@@ -169,7 +176,7 @@ https://www.linkedin.com/in/wllmvg
 https://github.com/wllmvg
 
 📧 Email
-[work.wllmvg@gmail.com](mailto:work.wllmvg@gmail.com)
+mailto:[work.wllmvg@gmail.com](mailto:work.wllmvg@gmail.com)
 
 ---
 
