@@ -176,7 +176,7 @@ https://www.linkedin.com/in/wllmvg
 https://github.com/wllmvg
 
 📧 Email
-mailto:[work.wllmvg@gmail.com](mailto:work.wllmvg@gmail.com)
+[work.wllmvg@gmail.com](mailto:work.wllmvg@gmail.com)
 
 ---
 
