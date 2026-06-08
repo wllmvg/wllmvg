@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://github.com/wllmvg/wllmvg.github.io/blob/master/assets/Banner.jpg" alt="William Vega Banner" width="100%">
 </p>
-
-# 👋 Hi, I'm William Felipe Melgarejo Vega
-
 ### 💻 Full Stack Developer | React • TypeScript • Node.js • MongoDB
 
 🎓 Software Engineering Student at Universidad de Santander (UDES)
