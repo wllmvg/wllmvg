@@ -1,183 +1,41 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wllmvg/wllmvg.github.io/master/assets/Banner.jpg" alt="William Vega Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/wllmvg/wllmvg.github.io/master/assets/Banner.jpg" alt="William Vega banner" width="100%">
 </p>
 
-<h1 align="center">William Felipe Melgarejo Vega</h1>
+# Hi, I'm William Vega
 
-<h3 align="center">
-Full Stack Developer | React • TypeScript • Node.js • MongoDB
-</h3>
+**Junior Developer** building native mobile apps (iOS & Android) and full-stack web products.
+Software Engineering student at Universidad de Santander (UDES), Colombia — graduating in 2027.
 
-<p align="center">
-🎓 Software Engineering Student at Universidad de Santander (UDES) <br>
-📅 Expected Graduation: 2027 <br>
-📊 GPA: 4.07 / 5.0 <br>
-🇬🇧 English B1 Certified
-</p>
+*Me interesa lo que funciona y el por qué.*
 
----
+## <img src="assets/icons/briefcase.svg" width="22" height="22" alt=""> Now
 
-## 🚀 About Me
+- **Junior Developer at KL Security** — I develop and maintain the company's native mobile apps: **iOS (Swift, SwiftUI)** and **Android (Java)**.
+- Building side products in TypeScript, React and Node.js.
+- Based in Bucaramanga, relocating to Bogotá.
 
-I'm a Software Engineering student focused on Full Stack Web Development and modern software engineering practices.
+## <img src="assets/icons/rocket.svg" width="22" height="22" alt=""> Featured projects
 
-Currently, I am leading the development of an institutional academic management platform for Universidad de Santander (UDES), designed to streamline and digitize academic requirement tracking for coordinators, administrators, and more than 200 students.
+| Project | What it does | Stack |
+|---|---|---|
+| **Academic Management Platform** (thesis, graded 4.9/5.0) | Tracks academic requirements for UDES's Occupational Therapy program. In production on AWS EC2 with ~64 active students. *Private repo.* | React · TypeScript · Node.js · Express · MongoDB · JWT |
+| [**nexo-app**](https://github.com/wllmvg/nexo-app) · [live](https://nexo-app-eight.vercel.app) | Personal and shared finances for couples: accounts, debts, budgets and savings goals. | TypeScript |
+| [**Scheduly**](https://github.com/wllmvg/scheduly) · [live](https://scheduly-psi.vercel.app) | Turns university PDF schedules into .ICS calendars for Google, Apple and Outlook. | React · Python/Flask |
+| [**Rifally**](https://github.com/wllmvg/rifally) · [live](https://rifally-psi.vercel.app) | Raffle management with collaborators, a public page and real-time access control. | React · Supabase (PostgreSQL, RLS) |
+| [**usage-for-claude**](https://github.com/wllmvg/usage-for-claude) · [site](https://wllmvg.github.io/usage-for-claude/) | Tiny Windows tray app that shows your Claude usage limits. No telemetry. | Rust |
 
-My experience includes building full-stack applications, authentication systems, REST APIs, real-time platforms, database-driven solutions, and responsive user interfaces.
+## <img src="assets/icons/code-xml.svg" width="22" height="22" alt=""> Tech
 
-I enjoy creating software that solves real-world problems while maintaining clean architecture, scalability, and excellent user experience.
+- **Mobile:** Swift, SwiftUI, Java (Android), React Native (Expo)
+- **Web & backend:** TypeScript, JavaScript, React, Node.js, Express, Python, Flask, REST APIs
+- **Data & cloud:** MongoDB, PostgreSQL (Supabase), SQL, Firebase, AWS EC2, Docker, Vercel
+- **Tools:** Git, Xcode, Android Studio, Postman, Claude Code
 
----
+## <img src="assets/icons/mail.svg" width="22" height="22" alt=""> Contact
 
-## 🏆 Featured Projects
+[LinkedIn](https://www.linkedin.com/in/wllmvg) · [Portfolio](https://wllmvg.github.io/) · pipes.felipe425@gmail.com
 
-### 🎓 Academic Requirements Management Platform
+<img src="assets/icons/globe.svg" width="16" height="16" alt=""> Spanish (native) · English (B1, Cambridge)
 
-Institutional full-stack platform developed for Universidad de Santander (UDES).
-
-#### Technologies
-
-React • TypeScript • Node.js • Express • MongoDB • Tailwind CSS • JWT • Mongoose
-
-#### Highlights
-
-* Authentication and authorization system
-* Role-based access control
-* Academic requirement tracking
-* User management
-* Form validation
-* Responsive interface
-* Centralized information management
-
-🔒 Repository currently private due to ongoing institutional development.
-
----
-
-### 📅 TokenShift
-
-Reservation management platform with real-time capabilities.
-
-#### Technologies
-
-React • Vite • Supabase Auth • Supabase Database • Supabase Realtime
-
-#### Highlights
-
-* Secure authentication
-* Real-time updates
-* Reservation management
-* Cloud database integration
-* Responsive design
-
-🔗 Demo: https://wllmvg.github.io/TokenShift/
-
-🔗 Repository: https://github.com/wllmvg/TokenShift
-
----
-
-### 🎵 GridWall
-
-Interactive music wall powered by Spotify API.
-
-#### Technologies
-
-React • Vite • Spotify API
-
-#### Highlights
-
-* Spotify API integration
-* Dynamic music visualization
-* Responsive interface
-
-🔗 Repository: https://github.com/wllmvg/Gridwall
-
----
-
-### ⚙️ Physics Calculator
-
-Desktop application developed in Python for solving electrical and mechanical physics problems.
-
-#### Technologies
-
-Python
-
-#### Highlights
-
-* Physics problem solving
-* Electrical calculations
-* Mechanical calculations
-
-🔗 Repository: https://github.com/wllmvg/Fisica-El-ctrica-y-Mec-nica-Proyecto
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge\&logo=mongoose)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase)
-
-### Deployment & Cloud
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge\&logo=github)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
-
----
-
-## 🎯 Current Focus
-
-* Full Stack Development
-* React Ecosystem
-* TypeScript
-* Software Architecture
-* Modern Web Applications
-* Scalable Systems
-
----
-
-## 🌎 Languages
-
-* 🇪🇸 Spanish — Native
-* 🇬🇧 English — B1 Certified
-
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn
-https://www.linkedin.com/in/wllmvg
-
-💻 GitHub
-https://github.com/wllmvg
-
-📧 Email
-[work.wllmvg@gmail.com](mailto:work.wllmvg@gmail.com)
-
----
-
-⭐ Feel free to explore my repositories and connect with me.
+<sub>Icons: [Lucide](https://lucide.dev) (ISC).</sub>
